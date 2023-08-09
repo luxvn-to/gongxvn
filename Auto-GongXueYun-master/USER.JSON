@@ -1,0 +1,24 @@
+[
+  {
+    "enable": true,
+    "phone": "17793594291",
+    "password": "Zsq2003429",
+    "keepLogin": false,
+    "token": "如果keepLogin为false就不填",
+    "userId": "如果keepLogin为false就不填",
+    "planId": "如果keepLogin为false就不填",
+    "randomLocation": true,
+    "user-agent": "null",
+    "signCheck": true,
+    "country": "中国",
+    "province": "河北省",
+    "city": "雄安市",
+    "area": "容城县",
+    "desc": "",
+    "type": "android",
+    "address": "河北雄安与或科技有限公司",
+    "longitude": "115.894119",
+    "latitude": "39.050711",
+    "pushKey": "29320ab9271f4b4b8cebdc15d5e369b5"
+  }
+]
